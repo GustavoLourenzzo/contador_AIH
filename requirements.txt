@@ -20,6 +20,6 @@ tb-nightly==1.15.0a20190806
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019080601
 utils==0.9.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wheel==0.33.6
 wrapt==1.11.2
